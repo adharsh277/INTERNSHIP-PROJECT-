@@ -8,8 +8,6 @@
 ![CI/CD](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
 
 
-# 📊 Azure-Based CRM Data Engineering & Analytics Platform  
-**Data Engineering | Cloud-native ETL | Power BI Dashboards | Azure Tools**
 
 ---
 
