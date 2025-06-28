@@ -1,7 +1,13 @@
+# 📊 Azure-Based CRM Data Engineering & Analytics Platform
 
-markdown
-Copy
-Edit
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)
+![Data Factory](https://img.shields.io/badge/Data%20Factory-ETL%20Pipelines-brightgreen?logo=microsoft-azure)
+![Databricks](https://img.shields.io/badge/Databricks-Spark%20Transformations-orange?logo=databricks)
+![Synapse](https://img.shields.io/badge/Synapse-Analytics%20SQL-lightblue?logo=microsoft-azure)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Dashboards-yellow?logo=powerbi)
+![CI/CD](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
+
+
 # 📊 Azure-Based CRM Data Engineering & Analytics Platform  
 **Data Engineering | Cloud-native ETL | Power BI Dashboards | Azure Tools**
 
